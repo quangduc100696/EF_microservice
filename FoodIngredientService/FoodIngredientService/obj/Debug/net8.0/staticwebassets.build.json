@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "INBjJdbUsGLA5XqYEQCb76dFRSLBP+OCD/Dfn2iWqaQ=",
+  "Source": "FoodIngredientService",
+  "BasePath": "_content/FoodIngredientService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

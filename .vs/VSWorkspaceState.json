@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FoodService",
+    "\\FoodService\\FoodService",
+    "\\Infrastructure",
+    "\\Infrastructure\\Infrastructure"
+  ],
+  "SelectedNode": "\\FoodService\\FoodService\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\microservice_dotnet\\EFExample\\FoodService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|d:\\microservice_dotnet\\efexample\\foodservice\\foodservice\\query\\getfoodquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|solutionrelative:foodservice\\query\\getfoodquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|D:\\microservice_dotnet\\EFExample\\FoodService\\foodservice\\command\\createfoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|solutionrelative:foodservice\\command\\createfoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D608FC7F-0DC9-406B-B0B4-3F6444209FB0}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\command\\commandbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D608FC7F-0DC9-406B-B0B4-3F6444209FB0}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\event\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|D:\\microservice_dotnet\\EFExample\\FoodService\\foodservice\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|solutionrelative:foodservice\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA6B1C8-0070-4AA6-AF28-248484569B61}|DataModel\\DataModel.csproj|D:\\microservice_dotnet\\EFExample\\FoodService\\datamodel\\dbcontextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA6B1C8-0070-4AA6-AF28-248484569B61}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\dbcontextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|D:\\microservice_dotnet\\EFExample\\FoodService\\foodservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|solutionrelative:foodservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D608FC7F-0DC9-406B-B0B4-3F6444209FB0}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\logging\\loggingextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D608FC7F-0DC9-406B-B0B4-3F6444209FB0}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\messagebroken\\rabbitmqlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|D:\\microservice_dotnet\\EFExample\\FoodService\\foodservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|solutionrelative:foodservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|D:\\microservice_dotnet\\EFExample\\FoodService\\foodservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|solutionrelative:foodservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81869808-9E62-494F-925A-09F4C63F693F}|..\\Event\\Event\\Event.csproj|d:\\microservice_dotnet\\efexample\\event\\event\\model\\foodcreateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA6B1C8-0070-4AA6-AF28-248484569B61}|DataModel\\DataModel.csproj|D:\\microservice_dotnet\\EFExample\\FoodService\\datamodel\\model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA6B1C8-0070-4AA6-AF28-248484569B61}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\model\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D608FC7F-0DC9-406B-B0B4-3F6444209FB0}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\query\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|D:\\microservice_dotnet\\EFExample\\FoodService\\foodservice\\foodservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{68039C6B-9BE3-43C8-8533-607AB83EA957}|FoodService\\FoodService.csproj|solutionrelative:foodservice\\foodservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Program.cs",
+              "RelativeDocumentMoniker": "FoodService\\Program.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Program.cs",
+              "RelativeToolTip": "FoodService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:39:11.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoggingExtentions.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Logging\\LoggingExtentions.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Logging\\LoggingExtentions.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Logging\\LoggingExtentions.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Logging\\LoggingExtentions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T09:43:50.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\DataModel\\Model\\Food.cs",
+              "RelativeDocumentMoniker": "DataModel\\Model\\Food.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\DataModel\\Model\\Food.cs",
+              "RelativeToolTip": "DataModel\\Model\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:14:45.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryHandler.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryHandler.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T03:33:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodCreateEvent.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Event\\Event\\Model\\FoodCreateEvent.cs",
+              "RelativeDocumentMoniker": "..\\Event\\Event\\Model\\FoodCreateEvent.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Event\\Event\\Model\\FoodCreateEvent.cs",
+              "RelativeToolTip": "..\\Event\\Event\\Model\\FoodCreateEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T03:29:39.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetFoodQuery.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Query\\GetFoodQuery.cs",
+              "RelativeDocumentMoniker": "FoodService\\Query\\GetFoodQuery.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Query\\GetFoodQuery.cs",
+              "RelativeToolTip": "FoodService\\Query\\GetFoodQuery.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T03:29:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbContextData.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\DataModel\\DbContextData.cs",
+              "RelativeDocumentMoniker": "DataModel\\DbContextData.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\DataModel\\DbContextData.cs",
+              "RelativeToolTip": "DataModel\\DbContextData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:36:59.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMQListener.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\MessageBroken\\RabbitMQListener.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\MessageBroken\\RabbitMQListener.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\MessageBroken\\RabbitMQListener.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\MessageBroken\\RabbitMQListener.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:36:59.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommandBus.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Command\\CommandBus.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Command\\CommandBus.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Command\\CommandBus.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Command\\CommandBus.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:36:59.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodService\\appsettings.json",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\appsettings.json",
+              "RelativeToolTip": "FoodService\\appsettings.json",
+              "ViewState": "AQIAACoAAAAAAAAAAAAhwDoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T06:47:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodService.http",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\FoodService.http",
+              "RelativeDocumentMoniker": "FoodService\\FoodService.http",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\FoodService.http",
+              "RelativeToolTip": "FoodService\\FoodService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-02-22T06:47:38.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "FoodService\\Controllers\\FoodController.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "FoodService\\Controllers\\FoodController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwDIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:56:23.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Event\\EventBus.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Event\\EventBus.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Event\\EventBus.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Event\\EventBus.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADgvzkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:50:28.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Startup.cs",
+              "RelativeDocumentMoniker": "FoodService\\Startup.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Startup.cs",
+              "RelativeToolTip": "FoodService\\Startup.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:47:45.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateFoodCommand.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Command\\CreateFoodCommand.cs",
+              "RelativeDocumentMoniker": "FoodService\\Command\\CreateFoodCommand.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodService\\FoodService\\Command\\CreateFoodCommand.cs",
+              "RelativeToolTip": "FoodService\\Command\\CreateFoodCommand.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAlwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T04:46:55.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

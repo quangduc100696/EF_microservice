@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|d:\\microservice_dotnet\\efexample\\foodingredientservice\\foodingredientservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|solutionrelative:foodingredientservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\foodingredientservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|solutionrelative:foodingredientservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\foodingredientservice\\command\\createfoodingredientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|solutionrelative:foodingredientservice\\command\\createfoodingredientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\event\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\foodingredientservice\\controllers\\foodingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|solutionrelative:foodingredientservice\\controllers\\foodingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\messagebroken\\rabbitmqlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\foodingredientservice\\query\\getfoodingredientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|solutionrelative:foodingredientservice\\query\\getfoodingredientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0756301-315C-48A4-A6FC-6D5CEB836351}|..\\Event\\Event\\Event.csproj|d:\\microservice_dotnet\\efexample\\event\\event\\model\\foodcreateevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\swagger\\swaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\swagger\\swaggerextendtions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\foodingredientservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|solutionrelative:foodingredientservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\coreextendtions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\query\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6F7E08-9087-4B73-B6B8-EAB647412ADE}|DataModel\\DataModel.csproj|D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\datamodel\\dbcontextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6F7E08-9087-4B73-B6B8-EAB647412ADE}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\dbcontextdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6F7E08-9087-4B73-B6B8-EAB647412ADE}|DataModel\\DataModel.csproj|D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\datamodel\\connectionstringkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6F7E08-9087-4B73-B6B8-EAB647412ADE}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\connectionstringkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\foodingredientservice\\dto\\foodingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C1F89F-A287-46B7-85FD-E2600231C65C}|FoodIngredientService\\FoodIngredientService.csproj|solutionrelative:foodingredientservice\\dto\\foodingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\query\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\query\\querybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\query\\iquerybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\command\\icommandbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07E636-BAFD-4119-AB89-E436C57AE942}|..\\Infrastructure\\Infrastructure\\Infrastructure.csproj|d:\\microservice_dotnet\\efexample\\infrastructure\\infrastructure\\core\\event\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0756301-315C-48A4-A6FC-6D5CEB836351}|..\\Event\\Event\\Event.csproj|d:\\microservice_dotnet\\efexample\\event\\event\\eventextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwaggerExtendtions.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Swagger\\SwaggerExtendtions.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Swagger\\SwaggerExtendtions.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Swagger\\SwaggerExtendtions.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Swagger\\SwaggerExtendtions.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:26:06.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwaggerOptions.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Swagger\\SwaggerOptions.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Swagger\\SwaggerOptions.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Swagger\\SwaggerOptions.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Swagger\\SwaggerOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:25:56.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FoodIngredientService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FoodIngredientService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABEAAAAAAAAAAAAhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T09:25:43.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbContextData.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\DataModel\\DbContextData.cs",
+              "RelativeDocumentMoniker": "DataModel\\DbContextData.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\DataModel\\DbContextData.cs",
+              "RelativeToolTip": "DataModel\\DbContextData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:16:00.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConnectionStringKeys.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\DataModel\\ConnectionStringKeys.cs",
+              "RelativeDocumentMoniker": "DataModel\\ConnectionStringKeys.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\DataModel\\ConnectionStringKeys.cs",
+              "RelativeToolTip": "DataModel\\ConnectionStringKeys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:15:59.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetFoodIngredientQuery.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Query\\GetFoodIngredientQuery.cs",
+              "RelativeDocumentMoniker": "FoodIngredientService\\Query\\GetFoodIngredientQuery.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Query\\GetFoodIngredientQuery.cs",
+              "RelativeToolTip": "FoodIngredientService\\Query\\GetFoodIngredientQuery.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwDkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:09:39.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryHandler.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryHandler.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:04:37.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QueryBus.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\QueryBus.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Query\\QueryBus.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\QueryBus.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Query\\QueryBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:02:37.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommandBus.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Command\\ICommandBus.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Command\\ICommandBus.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Command\\ICommandBus.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Command\\ICommandBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:01:36.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IQueryBus.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryBus.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryBus.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryBus.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Query\\IQueryBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:01:32.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\IQuery.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Query\\IQuery.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Query\\IQuery.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Query\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:00:31.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodIngredientDTO.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\DTO\\FoodIngredientDTO.cs",
+              "RelativeDocumentMoniker": "FoodIngredientService\\DTO\\FoodIngredientDTO.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\DTO\\FoodIngredientDTO.cs",
+              "RelativeToolTip": "FoodIngredientService\\DTO\\FoodIngredientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:11:16.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Event\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Event\\IEventHandler.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Event\\IEventHandler.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Event\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T08:08:25.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMQListener.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\MessageBroken\\RabbitMQListener.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\MessageBroken\\RabbitMQListener.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\MessageBroken\\RabbitMQListener.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\MessageBroken\\RabbitMQListener.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAewFwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:47:07.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodIngredientService\\appsettings.json",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\appsettings.json",
+              "RelativeToolTip": "FoodIngredientService\\appsettings.json",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwEMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-22T06:47:27.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventExtentions.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Event\\Event\\EventExtentions.cs",
+              "RelativeDocumentMoniker": "..\\Event\\Event\\EventExtentions.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Event\\Event\\EventExtentions.cs",
+              "RelativeToolTip": "..\\Event\\Event\\EventExtentions.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:49:51.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoreExtendtions.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\CoreExtendtions.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\CoreExtendtions.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\CoreExtendtions.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\CoreExtendtions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:45:34.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodCreateEvent.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Event\\Event\\Model\\FoodCreateEvent.cs",
+              "RelativeDocumentMoniker": "..\\Event\\Event\\Model\\FoodCreateEvent.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Event\\Event\\Model\\FoodCreateEvent.cs",
+              "RelativeToolTip": "..\\Event\\Event\\Model\\FoodCreateEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T06:39:36.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodIngredientController.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Controllers\\FoodIngredientController.cs",
+              "RelativeDocumentMoniker": "FoodIngredientService\\Controllers\\FoodIngredientController.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Controllers\\FoodIngredientController.cs",
+              "RelativeToolTip": "FoodIngredientService\\Controllers\\FoodIngredientController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:56:33.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventBus.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Event\\EventBus.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Infrastructure\\Core\\Event\\EventBus.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\Infrastructure\\Infrastructure\\Core\\Event\\EventBus.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Infrastructure\\Core\\Event\\EventBus.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:50:09.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateFoodIngredientCommand.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Command\\CreateFoodIngredientCommand.cs",
+              "RelativeDocumentMoniker": "FoodIngredientService\\Command\\CreateFoodIngredientCommand.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Command\\CreateFoodIngredientCommand.cs",
+              "RelativeToolTip": "FoodIngredientService\\Command\\CreateFoodIngredientCommand.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAIA0wCsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:33:37.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Startup.cs",
+              "RelativeDocumentMoniker": "FoodIngredientService\\Startup.cs",
+              "ToolTip": "D:\\microservice_dotnet\\EFExample\\FoodIngredientService\\FoodIngredientService\\Startup.cs",
+              "RelativeToolTip": "FoodIngredientService\\Startup.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T04:30:23.46Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
